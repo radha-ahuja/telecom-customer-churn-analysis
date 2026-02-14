@@ -11,6 +11,8 @@ The analysis was conducted using SQL, Python, and Power BI to perform data clean
 - SQL (Data extraction & segmentation analysis)
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
 - Power BI (Interactive dashboard & KPI visualization)
+- ## 📂 Dataset
+The dataset used in this project is the Telco Customer Churn dataset available on Kaggle.
 
 ---
 

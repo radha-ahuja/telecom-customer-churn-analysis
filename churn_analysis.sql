@@ -1,5 +1,14 @@
+/*
+Project: Telecom Customer Churn Analysis
+Objective: Identify key drivers of customer churn and provide retention insights.
+Tools Used: SQL
+Author: Radha Ahuja
+*/
+
 /* This project analyzes customer churn in a telecom company to identify key factors driving 
 customer attrition and revenue loss, and provides actionable business recommendations.*/
+
+# Creation of a database
 CREATE DATABASE churn_project;
 
 USE churn_project;
@@ -42,6 +51,7 @@ SELECT * FROM churn_data;
 
 DESCRIBE churn_data;
 
+#Adding Primary Key
 ALTER TABLE churn_data
 ADD PRIMARY KEY (customer_id);
 

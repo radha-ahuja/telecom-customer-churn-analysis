@@ -16,6 +16,15 @@ The dataset used in this project is the Telco Customer Churn dataset available o
 
 ---
 
+## 📌 Project Structure
+
+- `churn_analysis.sql` → SQL queries for churn segmentation and business analysis
+- `Customer_Churn_Analysis.ipynb` → Data cleaning and exploratory analysis in Python
+- `dashboard-main.png` → Executive dashboard overview
+- `dashboard-insights.png` → KPI and churn insights view
+  
+---
+
 ## 🔍 Key Business Insights
 - Customers in their first year show the highest churn risk.
 - Month-to-month contracts significantly reduce customer retention.
@@ -48,7 +57,7 @@ The dataset used in this project is the Telco Customer Churn dataset available o
 - Encourage automatic payment adoption to increase loyalty.
 
 ---
-
 ## 🚀 Outcome
 This project demonstrates the ability to perform end-to-end data analysis, generate actionable insights, and build executive-ready dashboards that support data-driven decision making.
-This project demonstrates the ability to perform end-to-end data analysis, generate actionable insights, and build executive-ready dashboards that support data-driven decision making.
+This project demonstrates the ability to perform end-to-end data analysis, generate actionable insights, and build executive-ready 
+dashboards that support data-driven decision making.

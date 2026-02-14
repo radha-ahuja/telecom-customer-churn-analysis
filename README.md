@@ -24,6 +24,13 @@ The dataset used in this project is the Telco Customer Churn dataset available o
 - Customers using automatic payment methods exhibit stronger loyalty.
 
 ---
+## 📊 Dashboard Preview
+
+### 🔹 Main Dashboard View
+![Main Dashboard](dashboard-main.png)
+
+### 🔹 Insights & KPI View
+![Insights Dashboard](dashboard-insights.png)
 
 ## 📈 Dashboard Highlights
 - KPI cards displaying Total Customers, Customers Churned, Churn Rate, and Average Monthly Charges.
